@@ -13,6 +13,7 @@
 		EB3D4EBC2AE032390091FB37 /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB3D4EBB2AE032390091FB37 /* LongPressGestureBootcamp.swift */; };
 		EB3D4EBF2AE03C900091FB37 /* MagnificationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB3D4EBE2AE03C900091FB37 /* MagnificationGestureBootcamp.swift */; };
 		EB4E563B2AE1747E00D802BC /* MultipleSheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB4E563A2AE1747E00D802BC /* MultipleSheetsBootcamp.swift */; };
+		EB6146582AE1870E003068DB /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB6146572AE1870E003068DB /* MaskBootcamp.swift */; };
 		EB776B172AE11A6100E07143 /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB776B162AE11A6100E07143 /* DragGestureBootcamp2.swift */; };
 		EB776B1B2AE1428900E07143 /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB776B1A2AE1428900E07143 /* ScrollViewReaderBootcamp.swift */; };
 		EBB7DFF32AE1555E000F2608 /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBB7DFF22AE1555E000F2608 /* GeometryReaderBootcamp.swift */; };
@@ -28,6 +29,7 @@
 		EB3D4EBB2AE032390091FB37 /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
 		EB3D4EBE2AE03C900091FB37 /* MagnificationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureBootcamp.swift; sourceTree = "<group>"; };
 		EB4E563A2AE1747E00D802BC /* MultipleSheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsBootcamp.swift; sourceTree = "<group>"; };
+		EB6146572AE1870E003068DB /* MaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootcamp.swift; sourceTree = "<group>"; };
 		EB776B162AE11A6100E07143 /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
 		EB776B1A2AE1428900E07143 /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
 		EBB7DFF22AE1555E000F2608 /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
@@ -92,6 +94,7 @@
 				EB776B1A2AE1428900E07143 /* ScrollViewReaderBootcamp.swift */,
 				EBB7DFF22AE1555E000F2608 /* GeometryReaderBootcamp.swift */,
 				EB4E563A2AE1747E00D802BC /* MultipleSheetsBootcamp.swift */,
+				EB6146572AE1870E003068DB /* MaskBootcamp.swift */,
 			);
 			path = Contents;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EB6146582AE1870E003068DB /* MaskBootcamp.swift in Sources */,
 				EBC8148B2AE0658100DB3466 /* RotationGestureBootcamp.swift in Sources */,
 				EB3D4EBF2AE03C900091FB37 /* MagnificationGestureBootcamp.swift in Sources */,
 				EB3D4EBC2AE032390091FB37 /* LongPressGestureBootcamp.swift in Sources */,
