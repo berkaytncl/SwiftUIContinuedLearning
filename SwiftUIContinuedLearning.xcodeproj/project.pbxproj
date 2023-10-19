@@ -11,6 +11,8 @@
 		EB3D4EB22AE031C40091FB37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB3D4EB12AE031C40091FB37 /* Assets.xcassets */; };
 		EB3D4EB52AE031C40091FB37 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB3D4EB42AE031C40091FB37 /* Preview Assets.xcassets */; };
 		EB3D4EBC2AE032390091FB37 /* LongPressGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB3D4EBB2AE032390091FB37 /* LongPressGestureBootcamp.swift */; };
+		EB3D4EBF2AE03C900091FB37 /* MagnificationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB3D4EBE2AE03C900091FB37 /* MagnificationGestureBootcamp.swift */; };
+		EBC8148B2AE0658100DB3466 /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBC8148A2AE0658100DB3466 /* RotationGestureBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		EB3D4EB12AE031C40091FB37 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB3D4EB42AE031C40091FB37 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EB3D4EBB2AE032390091FB37 /* LongPressGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootcamp.swift; sourceTree = "<group>"; };
+		EB3D4EBE2AE03C900091FB37 /* MagnificationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureBootcamp.swift; sourceTree = "<group>"; };
+		EBC8148A2AE0658100DB3466 /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +75,8 @@
 			isa = PBXGroup;
 			children = (
 				EB3D4EBB2AE032390091FB37 /* LongPressGestureBootcamp.swift */,
+				EB3D4EBE2AE03C900091FB37 /* MagnificationGestureBootcamp.swift */,
+				EBC8148A2AE0658100DB3466 /* RotationGestureBootcamp.swift */,
 			);
 			path = Contents;
 			sourceTree = "<group>";
@@ -145,6 +151,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EBC8148B2AE0658100DB3466 /* RotationGestureBootcamp.swift in Sources */,
+				EB3D4EBF2AE03C900091FB37 /* MagnificationGestureBootcamp.swift in Sources */,
 				EB3D4EBC2AE032390091FB37 /* LongPressGestureBootcamp.swift in Sources */,
 				EB3D4EAE2AE031C30091FB37 /* SwiftUIContinuedLearningApp.swift in Sources */,
 			);
