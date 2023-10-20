@@ -20,6 +20,7 @@
 		EB776B172AE11A6100E07143 /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB776B162AE11A6100E07143 /* DragGestureBootcamp2.swift */; };
 		EB776B1B2AE1428900E07143 /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB776B1A2AE1428900E07143 /* ScrollViewReaderBootcamp.swift */; };
 		EBB7DFF32AE1555E000F2608 /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBB7DFF22AE1555E000F2608 /* GeometryReaderBootcamp.swift */; };
+		EBB947862AE2A6AC0012A5D6 /* LocalNotificationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBB947852AE2A6AC0012A5D6 /* LocalNotificationBootcamp.swift */; };
 		EBBCC7332AE1F29800031372 /* HapticsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBBCC7322AE1F29800031372 /* HapticsBootcamp.swift */; };
 		EBC8148B2AE0658100DB3466 /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBC8148A2AE0658100DB3466 /* RotationGestureBootcamp.swift */; };
 		EBC8148D2AE0793700DB3466 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBC8148C2AE0793700DB3466 /* DragGestureBootcamp.swift */; };
@@ -40,6 +41,7 @@
 		EB776B162AE11A6100E07143 /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
 		EB776B1A2AE1428900E07143 /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
 		EBB7DFF22AE1555E000F2608 /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
+		EBB947852AE2A6AC0012A5D6 /* LocalNotificationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationBootcamp.swift; sourceTree = "<group>"; };
 		EBBCC7322AE1F29800031372 /* HapticsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsBootcamp.swift; sourceTree = "<group>"; };
 		EBC8148A2AE0658100DB3466 /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
 		EBC8148C2AE0793700DB3466 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
@@ -115,6 +117,7 @@
 				EB6146572AE1870E003068DB /* MaskBootcamp.swift */,
 				EB6146592AE18FCB003068DB /* SoundsBootcamp.swift */,
 				EBBCC7322AE1F29800031372 /* HapticsBootcamp.swift */,
+				EBB947852AE2A6AC0012A5D6 /* LocalNotificationBootcamp.swift */,
 			);
 			path = Contents;
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 				EBC8148D2AE0793700DB3466 /* DragGestureBootcamp.swift in Sources */,
 				EB776B1B2AE1428900E07143 /* ScrollViewReaderBootcamp.swift in Sources */,
 				EB4E563B2AE1747E00D802BC /* MultipleSheetsBootcamp.swift in Sources */,
+				EBB947862AE2A6AC0012A5D6 /* LocalNotificationBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
