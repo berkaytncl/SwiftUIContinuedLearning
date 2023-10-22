@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		EB1C410A2AE1A965004D7966 /* tada.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EB1C41092AE1A965004D7966 /* tada.mp3 */; };
 		EB1C410C2AE1A98D004D7966 /* badum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EB1C410B2AE1A98D004D7966 /* badum.mp3 */; };
+		EB22F2E92AE568D700B48A9E /* FruitsContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EB22F2E72AE568D700B48A9E /* FruitsContainer.xcdatamodeld */; };
 		EB3D4EAE2AE031C30091FB37 /* SwiftUIContinuedLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB3D4EAD2AE031C30091FB37 /* SwiftUIContinuedLearningApp.swift */; };
 		EB3D4EB22AE031C40091FB37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB3D4EB12AE031C40091FB37 /* Assets.xcassets */; };
 		EB3D4EB52AE031C40091FB37 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB3D4EB42AE031C40091FB37 /* Preview Assets.xcassets */; };
@@ -26,11 +27,13 @@
 		EBBCC7332AE1F29800031372 /* HapticsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBBCC7322AE1F29800031372 /* HapticsBootcamp.swift */; };
 		EBC8148B2AE0658100DB3466 /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBC8148A2AE0658100DB3466 /* RotationGestureBootcamp.swift */; };
 		EBC8148D2AE0793700DB3466 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBC8148C2AE0793700DB3466 /* DragGestureBootcamp.swift */; };
+		EBD140A72AE543B000B516FC /* CoreDataBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBD140A62AE543AF00B516FC /* CoreDataBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		EB1C41092AE1A965004D7966 /* tada.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tada.mp3; sourceTree = "<group>"; };
 		EB1C410B2AE1A98D004D7966 /* badum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = badum.mp3; sourceTree = "<group>"; };
+		EB22F2E82AE568D700B48A9E /* FruitsContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FruitsContainer.xcdatamodel; sourceTree = "<group>"; };
 		EB3D4EAA2AE031C30091FB37 /* SwiftUIContinuedLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIContinuedLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB3D4EAD2AE031C30091FB37 /* SwiftUIContinuedLearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIContinuedLearningApp.swift; sourceTree = "<group>"; };
 		EB3D4EB12AE031C40091FB37 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -49,6 +52,7 @@
 		EBBCC7322AE1F29800031372 /* HapticsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsBootcamp.swift; sourceTree = "<group>"; };
 		EBC8148A2AE0658100DB3466 /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
 		EBC8148C2AE0793700DB3466 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
+		EBD140A62AE543AF00B516FC /* CoreDataBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +128,8 @@
 				EBB947852AE2A6AC0012A5D6 /* LocalNotificationBootcamp.swift */,
 				EBB947872AE2B9230012A5D6 /* HashableBootcamp.swift */,
 				EBB7AF4F2AE2E24A001E05FB /* ArraysBootcamp.swift */,
+				EBD140A62AE543AF00B516FC /* CoreDataBootcamp.swift */,
+				EB22F2E72AE568D700B48A9E /* FruitsContainer.xcdatamodeld */,
 			);
 			path = Contents;
 			sourceTree = "<group>";
@@ -202,6 +208,7 @@
 			files = (
 				EB6146582AE1870E003068DB /* MaskBootcamp.swift in Sources */,
 				EBBCC7332AE1F29800031372 /* HapticsBootcamp.swift in Sources */,
+				EB22F2E92AE568D700B48A9E /* FruitsContainer.xcdatamodeld in Sources */,
 				EBB7AF502AE2E24A001E05FB /* ArraysBootcamp.swift in Sources */,
 				EBC8148B2AE0658100DB3466 /* RotationGestureBootcamp.swift in Sources */,
 				EB3D4EBF2AE03C900091FB37 /* MagnificationGestureBootcamp.swift in Sources */,
@@ -209,6 +216,7 @@
 				EBB7DFF32AE1555E000F2608 /* GeometryReaderBootcamp.swift in Sources */,
 				EBB947882AE2B9230012A5D6 /* HashableBootcamp.swift in Sources */,
 				EB776B172AE11A6100E07143 /* DragGestureBootcamp2.swift in Sources */,
+				EBD140A72AE543B000B516FC /* CoreDataBootcamp.swift in Sources */,
 				EB61465A2AE18FCB003068DB /* SoundsBootcamp.swift in Sources */,
 				EB3D4EAE2AE031C30091FB37 /* SwiftUIContinuedLearningApp.swift in Sources */,
 				EBC8148D2AE0793700DB3466 /* DragGestureBootcamp.swift in Sources */,
@@ -420,6 +428,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		EB22F2E72AE568D700B48A9E /* FruitsContainer.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				EB22F2E82AE568D700B48A9E /* FruitsContainer.xcdatamodel */,
+			);
+			currentVersion = EB22F2E82AE568D700B48A9E /* FruitsContainer.xcdatamodel */;
+			path = FruitsContainer.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = EB3D4EA22AE031C30091FB37 /* Project object */;
 }
