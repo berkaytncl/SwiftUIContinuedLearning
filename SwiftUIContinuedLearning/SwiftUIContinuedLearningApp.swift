@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUIContinuedLearningApp: App {
     var body: some Scene {
         WindowGroup {
-            CoreDataRelationshipsBootcamp()
+            BackgroundThreadBootcamp()
         }
     }
 }
