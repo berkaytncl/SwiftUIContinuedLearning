@@ -12,6 +12,7 @@
 		EB1C410A2AE1A965004D7966 /* tada.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EB1C41092AE1A965004D7966 /* tada.mp3 */; };
 		EB1C410C2AE1A98D004D7966 /* badum.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EB1C410B2AE1A98D004D7966 /* badum.mp3 */; };
 		EB22F2E92AE568D700B48A9E /* FruitsContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EB22F2E72AE568D700B48A9E /* FruitsContainer.xcdatamodeld */; };
+		EB258AB62AE726440031B240 /* TypealiasBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB258AB52AE726440031B240 /* TypealiasBootcamp.swift */; };
 		EB3D4EAE2AE031C30091FB37 /* SwiftUIContinuedLearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB3D4EAD2AE031C30091FB37 /* SwiftUIContinuedLearningApp.swift */; };
 		EB3D4EB22AE031C40091FB37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB3D4EB12AE031C40091FB37 /* Assets.xcassets */; };
 		EB3D4EB52AE031C40091FB37 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB3D4EB42AE031C40091FB37 /* Preview Assets.xcassets */; };
@@ -40,6 +41,7 @@
 		EB1C41092AE1A965004D7966 /* tada.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tada.mp3; sourceTree = "<group>"; };
 		EB1C410B2AE1A98D004D7966 /* badum.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = badum.mp3; sourceTree = "<group>"; };
 		EB22F2E82AE568D700B48A9E /* FruitsContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FruitsContainer.xcdatamodel; sourceTree = "<group>"; };
+		EB258AB52AE726440031B240 /* TypealiasBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypealiasBootcamp.swift; sourceTree = "<group>"; };
 		EB3D4EAA2AE031C30091FB37 /* SwiftUIContinuedLearning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIContinuedLearning.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB3D4EAD2AE031C30091FB37 /* SwiftUIContinuedLearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIContinuedLearningApp.swift; sourceTree = "<group>"; };
 		EB3D4EB12AE031C40091FB37 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -142,6 +144,7 @@
 				EB15531D2AE5BAE600D2ADBA /* CoreDataContainer.xcdatamodeld */,
 				EB9106BB2AE6D5D600DC9099 /* BackgroundThreadBootcamp.swift */,
 				EB76F0572AE7127B00AFA48F /* WeakSelfBootcamp.swift */,
+				EB258AB52AE726440031B240 /* TypealiasBootcamp.swift */,
 			);
 			path = Contents;
 			sourceTree = "<group>";
@@ -227,6 +230,7 @@
 				EB3D4EBC2AE032390091FB37 /* LongPressGestureBootcamp.swift in Sources */,
 				EBB7DFF32AE1555E000F2608 /* GeometryReaderBootcamp.swift in Sources */,
 				EBB947882AE2B9230012A5D6 /* HashableBootcamp.swift in Sources */,
+				EB258AB62AE726440031B240 /* TypealiasBootcamp.swift in Sources */,
 				EB776B172AE11A6100E07143 /* DragGestureBootcamp2.swift in Sources */,
 				EBD140A72AE543B000B516FC /* CoreDataBootcamp.swift in Sources */,
 				EB61465A2AE18FCB003068DB /* SoundsBootcamp.swift in Sources */,
