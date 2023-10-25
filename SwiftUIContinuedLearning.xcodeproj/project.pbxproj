@@ -34,6 +34,7 @@
 		EBB947862AE2A6AC0012A5D6 /* LocalNotificationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBB947852AE2A6AC0012A5D6 /* LocalNotificationBootcamp.swift */; };
 		EBB947882AE2B9230012A5D6 /* HashableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBB947872AE2B9230012A5D6 /* HashableBootcamp.swift */; };
 		EBBCC7332AE1F29800031372 /* HapticsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBBCC7322AE1F29800031372 /* HapticsBootcamp.swift */; };
+		EBC03F5F2AE968B600F977D5 /* TimerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBC03F5E2AE968B600F977D5 /* TimerBootcamp.swift */; };
 		EBC8148B2AE0658100DB3466 /* RotationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBC8148A2AE0658100DB3466 /* RotationGestureBootcamp.swift */; };
 		EBC8148D2AE0793700DB3466 /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBC8148C2AE0793700DB3466 /* DragGestureBootcamp.swift */; };
 		EBD140A72AE543B000B516FC /* CoreDataBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBD140A62AE543AF00B516FC /* CoreDataBootcamp.swift */; };
@@ -68,6 +69,7 @@
 		EBB947852AE2A6AC0012A5D6 /* LocalNotificationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationBootcamp.swift; sourceTree = "<group>"; };
 		EBB947872AE2B9230012A5D6 /* HashableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableBootcamp.swift; sourceTree = "<group>"; };
 		EBBCC7322AE1F29800031372 /* HapticsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsBootcamp.swift; sourceTree = "<group>"; };
+		EBC03F5E2AE968B600F977D5 /* TimerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerBootcamp.swift; sourceTree = "<group>"; };
 		EBC8148A2AE0658100DB3466 /* RotationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootcamp.swift; sourceTree = "<group>"; };
 		EBC8148C2AE0793700DB3466 /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
 		EBD140A62AE543AF00B516FC /* CoreDataBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataBootcamp.swift; sourceTree = "<group>"; };
@@ -157,6 +159,7 @@
 				EB35264C2AE7F65E00D4A40C /* CodableBootcamp.swift */,
 				EB35264E2AE8154500D4A40C /* URLSessionBootcamp.swift */,
 				EB73B2762AE915AE00DC3AD6 /* DownloadWithCombine.swift */,
+				EBC03F5E2AE968B600F977D5 /* TimerBootcamp.swift */,
 			);
 			path = Contents;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 				EB73B2772AE915AE00DC3AD6 /* DownloadWithCombine.swift in Sources */,
 				EBB947862AE2A6AC0012A5D6 /* LocalNotificationBootcamp.swift in Sources */,
 				EB35264D2AE7F65E00D4A40C /* CodableBootcamp.swift in Sources */,
+				EBC03F5F2AE968B600F977D5 /* TimerBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
