@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EB0478DB2AEA6EA8009DBF47 /* FileManagerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB0478DA2AEA6EA8009DBF47 /* FileManagerBootcamp.swift */; };
 		EB15531C2AE5A94A00D2ADBA /* CoreDataRelationshipsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB15531B2AE5A94A00D2ADBA /* CoreDataRelationshipsBootcamp.swift */; };
 		EB15531F2AE5BAE600D2ADBA /* CoreDataContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EB15531D2AE5BAE600D2ADBA /* CoreDataContainer.xcdatamodeld */; };
 		EB1C410A2AE1A965004D7966 /* tada.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EB1C41092AE1A965004D7966 /* tada.mp3 */; };
@@ -42,6 +43,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EB0478DA2AEA6EA8009DBF47 /* FileManagerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileManagerBootcamp.swift; sourceTree = "<group>"; };
 		EB15531B2AE5A94A00D2ADBA /* CoreDataRelationshipsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataRelationshipsBootcamp.swift; sourceTree = "<group>"; };
 		EB15531E2AE5BAE600D2ADBA /* CoreDataContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataContainer.xcdatamodel; sourceTree = "<group>"; };
 		EB1C41092AE1A965004D7966 /* tada.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tada.mp3; sourceTree = "<group>"; };
@@ -163,6 +165,7 @@
 				EB73B2762AE915AE00DC3AD6 /* DownloadWithCombine.swift */,
 				EBC03F5E2AE968B600F977D5 /* TimerBootcamp.swift */,
 				EBC03F602AE9759700F977D5 /* SubscriberBootcamp.swift */,
+				EB0478DA2AEA6EA8009DBF47 /* FileManagerBootcamp.swift */,
 			);
 			path = Contents;
 			sourceTree = "<group>";
@@ -241,6 +244,7 @@
 			files = (
 				EB6146582AE1870E003068DB /* MaskBootcamp.swift in Sources */,
 				EBBCC7332AE1F29800031372 /* HapticsBootcamp.swift in Sources */,
+				EB0478DB2AEA6EA8009DBF47 /* FileManagerBootcamp.swift in Sources */,
 				EB22F2E92AE568D700B48A9E /* FruitsContainer.xcdatamodeld in Sources */,
 				EB35264F2AE8154500D4A40C /* URLSessionBootcamp.swift in Sources */,
 				EBB7AF502AE2E24A001E05FB /* ArraysBootcamp.swift in Sources */,
